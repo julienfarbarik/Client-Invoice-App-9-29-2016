@@ -1,7 +1,7 @@
 ## info on server.js variables, etc
 
 Variables:
-  DB_NAME, COLLECTION_NAME both used to locate intended database, currently set to testable db
+  ##IMPORTANT: DB_NAME, COLLECTION_NAME both used to locate intended database, currently set to nonexistant db
   HOST_PORT sets port the server will take requests on, currently set to 3000
   DB_PORT sets port the server will use to access the database, currently set to mongoDB's default 27017
   
